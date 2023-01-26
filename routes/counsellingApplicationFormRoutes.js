@@ -19,7 +19,7 @@ router.get("/getAllInfo", getAllInfo);
 router.get("/getInfo/:id", getInfo);
 
 // http://localhost:3000/api/updateInfo/xxxx_info_id
-router.put("/updateInfo/:id", updateInfo);
+router.post("/updateInfo/:id", updateInfo);
 
 // http://localhost:3000/api/deleteInfo/xxxx_info_id
 router.delete("/deleteInfo/:id", deleteInfo);
