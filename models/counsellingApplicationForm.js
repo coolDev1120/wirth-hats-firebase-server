@@ -13,3 +13,30 @@ class CounsellingApplicationForm {
 }
 
 module.exports = CounsellingApplicationForm;
+
+
+
+// {
+//   "id": "5SiMhStPNINPIoFfeODO",
+//   "firstName": {
+//       "email": "astjin2@gmail.com",
+//       "last-name": "969",
+//       "how-many-people-live-in-your-household": "2",
+//       "how-many-adults-19-or-older-live-in-your-household": "2",
+//       "birthday": "02/08/2023",
+//       "postal-code": "876",
+//       "on-average-how-many-hours-week-do-you-work": "50",
+//       "NOA": "public\\counselling\\photo-1676011157609.png",
+//       "body": "34543",
+//       "how-long-have-you-been-at-your-current-job": "345",
+//       "first-name": "768",
+//       "annual_income": "36000",
+//       "address-2": "876",
+//       "province": 19.45,
+//       "hourlyWage": "public\\counselling\\photo-1676011155676.png",
+//       "city": "86",
+//       "telephone": "87",
+//       "address-1": "676"
+//   },
+//   "email": "astjin2@gmail.com"
+// },

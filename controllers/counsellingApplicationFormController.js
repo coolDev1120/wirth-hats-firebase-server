@@ -90,6 +90,10 @@ const deleteInfo = async (req, res, next) => {
   }
 };
 
+const uploadfile = async (req, res, next) => {
+  res.send({ success: req.file.path })
+};
+
 // todo - add delete all info
 
 module.exports = {
@@ -97,5 +101,6 @@ module.exports = {
   getAllInfo,
   getInfo,
   updateInfo,
-  deleteInfo
+  deleteInfo,
+  uploadfile
 };
